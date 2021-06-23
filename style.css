@@ -175,6 +175,7 @@ padding-right: 30px;
 }
 .Education .content .servicesBx
 {
+	border-radius: 25px;
 	padding: 40px 20px;
 	background: #999;
 	color: rgb(34, 34, 34);
@@ -209,7 +210,13 @@ padding-right: 30px;
 }*/
 .table
 {
-width:auto;
+
+width: 100px;;
+}
+.center
+{
+	margin-left: auto;
+	margin-right: auto`;
 }
 .table,td{
 	border:1px solid #111;
@@ -299,7 +306,7 @@ letter-spacing: 2px;
 	display: flex;
 	margin-left: 20px;
 	font-size: 16px;
-	color: #fff;
+	color: rgb(75, 54, 197);
 	flex-direction: column;
 	font-weight: 300;
 }
