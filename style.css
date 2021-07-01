@@ -8,6 +8,7 @@
 	font-family:'Poppins', sans-serif;
     scroll-behavior: smooth;
 	background: rgb(202, 221, 224);
+	    text-decoration: none;
 
 }
 
@@ -306,7 +307,6 @@ letter-spacing: 2px;
 	display: flex;
 	margin-left: 20px;
 	font-size: 16px;
-	color: rgb(75, 54, 197);
 	flex-direction: column;
 	font-weight: 300;
 }
